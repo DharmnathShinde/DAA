@@ -1,10 +1,3 @@
-'''
-NAME: UGALE GANESH DHONDIRAM
-CLASS: BE (COMP)
-ROLL NO: 35
-SUB: DAA
-EXPERIMENT NO: 01
-'''
 
 import time
 import tracemalloc
